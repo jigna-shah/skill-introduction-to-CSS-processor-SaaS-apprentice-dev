@@ -1,7 +1,7 @@
 # SKILL: Introduction to CSS Processor - SaaS (Fullstack) - JavaScript (Apprentice Developer)
 
 ## [PRE-REQUISITES]
-  * Basics of CSS, where, why and how to use
+  * [Basics of CSS, where, why and how to use](https://github.com/jigna-shah/skill-HTML-CSS-in-Javascript-apprentice-dev-master)
 
 ## [TOPICS]
   * What is CSS processor
